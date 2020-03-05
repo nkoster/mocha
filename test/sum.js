@@ -4,8 +4,9 @@ const
 
 describe('#sum()', _ => {
     context('aap test', _ => {
-        it('should return aap', _ => {
-            expect(sum()).to.be = 'aap'
+        it('should return aap', done => {
+            expect(sum()).to.equal('aap')
+            done()
         })
     })
 })
