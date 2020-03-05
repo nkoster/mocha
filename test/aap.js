@@ -1,11 +1,11 @@
 const
-    sum = require('../js/sum'),
+    aap = require('../js/aap'),
     expect = require('chai').expect
 
-describe('#sum()', _ => {
+describe('#aap()', _ => {
     context('aap test', _ => {
         it('should return aap', done => {
-            expect(sum()).to.equal('aap')
+            expect(aap()).to.equal('aap')
             done()
         })
     })
