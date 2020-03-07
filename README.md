@@ -1,5 +1,5 @@
-# mocha
-Mocha test example
+# mocha plus chai
+Mocha / chai test example
 
 Consider
 ```
