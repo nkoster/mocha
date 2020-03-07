@@ -1,4 +1,4 @@
-# mocha plus chai
+
 Mocha / chai test example
 
 consider
