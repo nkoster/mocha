@@ -1,7 +1,7 @@
 # mocha plus chai
 Mocha / chai test example
 
-Consider
+consider
 ```
 npm i -g mocha
 ```
