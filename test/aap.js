@@ -1,5 +1,5 @@
 const
-    aap = require('../js/aap'),
+    aap = require('../js/util/aap'),
     expect = require('chai').expect
 
 describe('aap()', _ => {

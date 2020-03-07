@@ -1,5 +1,5 @@
 const
-    flatArray = require('../js/flat-array'),
+    flatArray = require('../js/util/flat-array'),
     expect = require('chai').expect
 
 describe('flatArray()', _ => {

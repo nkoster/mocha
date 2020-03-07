@@ -1,5 +1,5 @@
 const
-    geoip = require('../js/geoip'),
+    geoip = require('../js/util/geoip'),
     expect = require('chai').expect
 
 describe('geoip', _ => {
